@@ -12,3 +12,6 @@
 - Photography 
 - Technology 
 
+## Term Project
+### Meme-Man
+For my term projecy my team and I are developing a clone of Pac-Man.  This clone will use internet Memes instead of the traditional Pac-Man images. The puropose of this project ...
