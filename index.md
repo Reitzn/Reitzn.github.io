@@ -14,4 +14,6 @@
 
 ## Term Project
 ### Meme-Man
-For my term projecy my team and I are developing a clone of Pac-Man.  This clone will use internet Memes instead of the traditional Pac-Man images. The puropose of this project ...
+For my term projecy in CIS-641, my team and I are developing a clone of Pac-Man.  This clone will use internet Memes instead of the traditional Pac-Man images. The puropose of this project is to develop a game and learn, and practice, how systems analisi and design is impemented from start to finish...
+### Link 
+Meme-Man Repo: https://ngboardway.github.io/GVSU-CIS641-Moot-Floating-Point/
