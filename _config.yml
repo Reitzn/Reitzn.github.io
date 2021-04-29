@@ -54,6 +54,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Pac Meme 
+        link: github.com/Reitzn/pac-meme
+        link_text: Pac Meme 
+
+        additional_links:
+          - title:  Reitzn/pac-meme
+            icon: fab fa-github
+            url: github.com/Reitzn/pac-meme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Pac Meme.
+  
+    - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
         title: PHP Resume Website
         link: github.com/Reitzn/personal-website
         link_text: PHP Resume Website 
@@ -69,6 +89,8 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           The goal of this project was to build out a PHP/HTML/CSS website for a Computer Science masters class. My professor kept the options of what to make pretty open. I decided to make a simple resume style website with some backend session capabilities. We were not allowed to use JavaScript.
+          
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
