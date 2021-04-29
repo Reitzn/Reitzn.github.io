@@ -69,7 +69,7 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          The goal of this project was to build out a PHP/HTML/CSS website for a Computer Science masters class. My professor kept the options of what to make pretty open. I decided to make a simple resume style website with some backend session capabilities. We were not allowed to use JavaScript.
+          The goal of this project was to build out a PHP/HTML/CSS website for a Computer Science masters class. My profesor kept the options of what to make pretty open. I decided to make a simple resume style website with some backend session capabilities. We were not allowed to use JavaScript.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -79,10 +79,10 @@ content:
         # link_text: boringcompany.com
         sub_title: Randstad Technologies
         # caption: November 2017 - Present
-         quote: >
-          Making websites go Voom!
+        # quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Building SPA React components for AEM(Adobe Experience anager) 
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
