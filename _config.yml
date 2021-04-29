@@ -77,22 +77,21 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Randstad Technologies
-        # caption: November 2017 - Present
+        caption: Present
         quote: >
          Making websites go Voom!
         description: | # this will include new lines to allow paragraphs
             Building SPA React components for AEM. 
-    content:
       - layout: left
-        title: Software Engineer
+        title: Software Developer
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Randstad Technologies
+        sub_title: Auto-Owners Insurance
         # caption: November 2017 - Present
-        quote: >
-          Making websites go Voom!
+        #quote: >
+        # Making websites go Voom!
         description: | # this will include new lines to allow paragraphs
-          Building SPA React components for AEM. 
+            Building ECM systems.       
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
