@@ -48,10 +48,7 @@ instagram_username: rockreitz
 # about_title: About Me
 about_profile_image: images/Nick-Reitz.jpeg
 about_content: | # this will include new lines to allow paragraphs
-Hello! My name is Nick Reitz. I am currently working on my graduate degree in Computer Science at Grand Valley State University. I have a bachelor’s in Computer Information Systems form Northwood University and have a few years of enterprise level software development expearnce.|
-I currently work as a Software Engineer at Randstad Technologies building out Adobe Experience Manager components. Previously, I worked as a Software Developer for Auto Owners Insurance building out ECM solutions.|
-I love to travel and take photos when I’m not working. One of my goals is to visit every national park. While not traviling or taking photos, I enjoy programing. Check out some of my work below.
-
+Hello! My name is Nick Reitz. I am currently working on my graduate degree in Computer Science at Grand Valley State University. I have a bachelor’s in Computer Information Systems form Northwood University and have a few years of enterprise level software development expearnce.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
