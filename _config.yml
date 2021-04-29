@@ -9,7 +9,7 @@ version: 2
 name: Nick Reitz
 title: Software Engineer
 email: Reitznia@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +48,7 @@ instagram_username: rockreitz
 # about_title: About Me
 about_profile_image: images/Nick-Reitz.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nick
+  Hi, my name's Nick. I am currently a Software Engineer building React components for AEM and working on my graduate degree in Computer Science at Grand Valley State University.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -68,7 +68,7 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          The goal of this project was to build out a PHP/HTML/CSS website for a Computer Science masters class. My profesor kept the options of what to make pretty open. I decided to make a simple resume style website with some backend session capabilities. We were not allowed to use JavaScript.
+          The goal of this project was to build out a PHP/HTML/CSS website for a Computer Science masters class. My professor kept the options of what to make pretty open. I decided to make a simple resume style website with some backend session capabilities. We were not allowed to use JavaScript.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
