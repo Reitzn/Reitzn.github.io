@@ -82,6 +82,17 @@ content:
          Making websites go Voom!
         description: | # this will include new lines to allow paragraphs
             Building SPA React components for AEM. 
+    content:
+      - layout: left
+        title: Software Engineer
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Randstad Technologies
+        # caption: November 2017 - Present
+        quote: >
+          Making websites go Voom!
+        description: | # this will include new lines to allow paragraphs
+          Building SPA React components for AEM. 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
