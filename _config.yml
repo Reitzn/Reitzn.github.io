@@ -65,8 +65,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+         Making websites go Voom!
         description: | # this will include new lines to allow paragraphs
           The goal of this project was to build out a PHP/HTML/CSS website for a Computer Science masters class. My profesor kept the options of what to make pretty open. I decided to make a simple resume style website with some backend session capabilities. We were not allowed to use JavaScript.
   - title: Experience # Title for the section
