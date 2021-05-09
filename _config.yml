@@ -67,7 +67,7 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Pac Meme.
+          Our project is based off the core premise of Pac-Man. Your character moves around the maze while trying to avoid collisions with walls or ghosts. The player’s goal is to collect all of the dots, which both increase your score and allow you to beat each level. There are special power-ups that allow you to eat ghosts. Our unique addition to the game comes in the form of Meme-based sprites.
           
       - layout: top-middle
         title: PHP Resume Website
@@ -124,13 +124,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - Photography
+      - Camping 
+      - Traveling
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
